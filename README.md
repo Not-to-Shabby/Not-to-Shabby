@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Perch Arnel II Montefalcon==================================================================================================================================================Future Programmmer------------------I've been starting to learn about computer since I was in elementary on how it's work on and how application works, then AI came to my attention and now I'm also interested on how AI works, then the application of AI in our lives.* 🌍  I'm based in Philippines* ✉️  You can contact me at [percharnel@gmail.com](mailto:percharnel@gmail.com)* 🧠  I'm learning Python, C#, Web Development, and C.
+Hi 👋 My name is Perch Arnel II Montefalcon
+===========================================Future Programmmer------------------I've been starting to learn about computer since I was in elementary on how it's work on and how application works, then AI came to my attention and now I'm also interested on how AI works, then the application of AI in our lives.* 🌍  I'm based in Philippines* ✉️  You can contact me at [percharnel@gmail.com](mailto:percharnel@gmail.com)* 🧠  I'm learning Python, C#, Web Development, and C.
 
 ### Skills
 
